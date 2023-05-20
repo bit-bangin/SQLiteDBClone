@@ -1,6 +1,6 @@
 # SQLite Database Clone Project
 
-Welcome to the repository for my SQLite Database Clone project. For this project, I anticipate utilizing C. 
+Welcome to the repository for my SQLite Database Clone project. For this project, I anticipate utilizing ![C Language](https://github.com/bit-bangin/SQLiteDBClone/blob/fb8397d99e532cfc1e7e120fa8ae3080ea7ebbe1/c.jpg).
 
 
 ## Resources
