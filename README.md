@@ -1,23 +1,22 @@
-# TITLE
+# SQLite Database Clone Project
 
-SummaryText 
+Welcome to the repository for my SQLite Database Clone project. For this project, I anticipate utilizing C. 
 
-## LIST
-- x
-- x
+
+## Resources
+- [CStack Project Tutorial](https://cstack.github.io/db_tutorial/parts/part1.html)
+- [SQLite Docs](https://www.sqlite.org/arch.html)
+- [CPP Reference](https://en.cppreference.com/mwiki/index.php?title=Main_Page&oldid=121738)
+- [GNU C Reference](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+- [C Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf) - Bell Labs, DM Ritchie 1978 (for fun!)
+  - [About C, Bell Labs](https://www.bell-labs.com/usr/dmr/www/chist.html) 
 
 ## Follow Me!
 
 <a href="https://www.linkedin.com/in/emilycabaniss/">
   <img align="left" alt="Emily's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/<YourHandleHere>">
-  <img align="left" alt="YourName | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/91a804aef38847ce0d70cc4f796da8931b2f1f19/images/svg/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/<YourHandleHere>">
-  <img align="left" alt="YourName's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
 <br/>
 
 ## Questions?
-If you have questions, or anything you'd like to share, be sure to create a PR/Issue!
+If you have questions, or anything you'd like to share, plese be sure to create a PR/Issue!
