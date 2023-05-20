@@ -19,4 +19,4 @@ Welcome to the repository for my SQLite Database Clone project. For this project
 <br/>
 
 ## Questions?
-If you have questions, or anything you'd like to share, plese be sure to create a PR/Issue!
+If you have questions, or anything you'd like to share, please be sure to create a PR/Issue!
